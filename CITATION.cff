@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use EgoActionBench, please cite it as below."
+title: "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos"
+authors:
+  - family-names: Shen
+    given-names: Yujiao
+  - family-names: Song
+    given-names: Jiahe
+  - family-names: Li
+    given-names: Haitian
+  - family-names: Yang
+    given-names: Jingkang
+  - family-names: Liu
+    given-names: Ziwei
+repository-code: "https://github.com/player0718/EgoActionBench"
+url: "https://egoaction-bench.github.io"
+date-released: 2026-10-30
