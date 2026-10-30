@@ -5,6 +5,7 @@
 **Official repository for the paper**
 
 <a href="https://egoaction-bench.github.io"><img src="https://img.shields.io/badge/Project_Page-online-green" alt="Project Page"></a>
+<a href="https://huggingface.co/datasets/play0718/EgoActionBench"><img src="https://img.shields.io/badge/Hugging_Face-coming_soon-yellow?logo=huggingface" alt="Hugging Face: coming soon"></a>
 <!-- TODO: replace XXXX.XXXXX with the arXiv ID once the paper is announced -->
 <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b" alt="arXiv"></a>
 <a href="assets/egoaction-film.mp4"><img src="https://img.shields.io/badge/Demo-MP4-ff0000" alt="Demo"></a>
