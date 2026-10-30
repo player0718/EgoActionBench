@@ -33,7 +33,7 @@ both hands. Given a clip, a model must recover *what* the camera wearer does,
 *when* each action happens, and *which hand* performs it.
 
 EgoActionBench contains **1,407 episodes** with **41,132 human-refined action
-annotations**, curated from Ego4D, EgoLife, and EPIC-KITCHENS-100. We benchmark
+annotations**. We benchmark
 19 vision-language models and introduce **EgoAction**, adapted from Qwen3-VL-4B
 and LLaVA-OneVision-2-8B through supervised fine-tuning followed by
 reinforcement learning.
